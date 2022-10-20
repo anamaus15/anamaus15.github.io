@@ -1,29 +1,14 @@
-body
-{
-background-color: aqua
+p{
+    text-align: center;
+}  
+
+h1{
+    style=" text-align: center"
 }
 
-#xscratch
-{
-    width: 10%
-}
+background: #CCCCCC
+} 
+ em strong {
+    color:aquamarine
 
-h1
-{
-    text-align: center
-}
-
-p
-{
-    text-align: center
-}
-
-#missao
-{
-    font-size: 20%
-}
-
-strong
-{
-    color: rgb(13, 4, 53);
-}
+ }
